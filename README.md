@@ -44,3 +44,14 @@ Se utilizará el enfoque de Desarrollo Dirigido por Pruebas (TDD) para garantiza
 
 En cuanto al testeo de APIs, se utilizarán herramientas como Postman y Swagger para probar exhaustivamente todas las rutas y endpoints disponibles. También se incluirán pruebas de carga para verificar la escalabilidad del sistema y su capacidad para manejar un gran número de solicitudes simultáneas.
 
+Mi plan es una buena opción porque aborda de manera integral los aspectos clave para el desarrollo de una aplicación web exitosa. Desde la selección de tecnologías adecuadas y la implementación de prácticas de desarrollo sólidas hasta la planificación cuidadosa del cronograma y la consideración de factores importantes como la internacionalización y la seguridad, se han tomado en cuenta todos los aspectos esenciales. Además, el enfoque en la escalabilidad y el uso de herramientas de prueba y verificación de calidad como Swagger y Postman ayudará a garantizar que el producto final sea de alta calidad y satisfaga las necesidades del cliente. En resumen, el plan proporciona una base sólida para el éxito de la aplicación y minimiza los riesgos de problemas técnicos y de implementación.
+
+
+### Suposiciones surgidas
+Durante el desarrollo del plan, surgieron algunas suposiciones que se deben tener en cuenta:
+
+#Se espera que la API de currency se mantenga estable durante el desarrollo del proyecto.
+#Los desarrolladores tendrán un conocimiento sólido de las herramientas y tecnologías mencionadas en el plan.
+Se tendrán en cuenta los posibles costos adicionales asociados con el uso de herramientas y servicios externos.
+
+#Suponiendo que se trabajará con el equipo de derecho interno de la empresa y que no se cuenta con un presupuesto ilimitado para el proyecto, es importante considerar que habrá limitaciones en términos de recursos financieros y humanos disponibles. Por lo tanto, se deberá priorizar cuidadosamente los requisitos y funcionalidades del proyecto para asegurar que se cumplan los objetivos principales dentro de los límites presupuestarios y de tiempo. Esto puede implicar la eliminación o la postergación de ciertas características no esenciales, así como la búsqueda de soluciones rentables y eficientes para la implementación del proyecto.
