@@ -1,25 +1,3 @@
-## Plan integral para el desarrollo exitoso de una aplicación web
-Este plan integral está diseñado para garantizar el éxito del desarrollo de una aplicación web en un plazo de 2 meses. El enfoque se centra en todos los aspectos clave, desde la selección de tecnologías adecuadas y la implementación de prácticas de desarrollo sólidas hasta la planificación cuidadosa del cronograma y la consideración de factores importantes como la internacionalización y la seguridad.
-
-### Selección de tecnologías adecuadas
-La selección de tecnologías adecuadas es fundamental para el éxito de la aplicación. En este plan, se utilizarán tecnologías probadas y populares como React.js para la interfaz de usuario, PHP para el backend y MySQL para la base de datos. Estas tecnologías son conocidas por su estabilidad y escalabilidad, lo que es esencial para cualquier aplicación web.
-
-### Implementación de prácticas de desarrollo sólidas
-La implementación de prácticas de desarrollo sólidas es esencial para garantizar la calidad del código y la eficiencia del desarrollo. En este plan, se seguirán prácticas de desarrollo ágiles como el Desarrollo Dirigido por Pruebas (TDD) y se utilizarán herramientas de control de versiones como Git. También se implementará un proceso de revisión de código para garantizar que el código cumpla con los estándares de calidad.
-
-### Planificación cuidadosa del cronograma
-La planificación cuidadosa del cronograma es esencial para garantizar que el desarrollo se complete dentro del plazo de 2 meses. En este plan, se utilizará un enfoque iterativo de desarrollo, lo que permitirá al equipo priorizar las características esenciales y minimizar el tiempo de desarrollo para cada iteración.
-
-### Consideración de factores importantes como la internacionalización y la seguridad
-La consideración de factores importantes como la internacionalización y la seguridad es fundamental para el éxito de cualquier aplicación web. En este plan, se utilizarán prácticas de seguridad como la autenticación y la autorización basadas en roles. También se implementará soporte para múltiples idiomas para garantizar que la aplicación sea accesible para una audiencia global.
-
-### Enfoque en la escalabilidad y uso de herramientas de prueba y verificación de calidad
-El enfoque en la escalabilidad y el uso de herramientas de prueba y verificación de calidad como Swagger y Postman ayudará a garantizar que el producto final sea de alta calidad y satisfaga las necesidades del cliente. Esto también garantizará que la aplicación sea escalable y pueda manejar un gran volumen de tráfico.
-
-En resumen, este plan integral proporciona una base sólida para el éxito de la aplicación y minimiza los riesgos de problemas técnicos y de implementación. La selección de tecnologías adecuadas, la implementación de prácticas de desarrollo sólidas, la planificación cuidadosa del cronograma y la consideración de factores importantes como la internacionalización y la seguridad garantizarán que la aplicación sea de alta calidad y satisfaga las necesidades del cliente.
-
-## Resumen ejecutivo
-
 La empresa desea construir una aplicación web para una nueva solución wifi que permita comprar dispositivos, alquilar dispositivos y comprar planes de datos en varios idiomas y países. El equipo de desarrollo utilizará PHP, Laravel, React, Vue y MySQL y Bitbucket para almacenar el código fuente. Se utilizarán sistemas de back-end en AWS. El CTO desea un prototipo en 2 meses. Para el manejo de roles y permisos se utilizará Laravel Spatie y para el manejo de divisas se utilizará una API de currency. Se utilizarán pipelines en Bitbucket para garantizar la calidad del código y la implementación de pruebas unitarias y de integración. Se considerará la opción de una sola instancia para la aplicación web, pero si se utiliza múltiples instancias, se utilizarán microfrontends con Nuxt o Next.
 
 ## Tecnologías
@@ -95,4 +73,13 @@ Se tendrán en cuenta los posibles costos adicionales asociados con el uso de he
 Para escribir una lista en Markdown, se pueden utilizar dos formatos: el formato con viñetas (con asteriscos, guiones o signos más) y el formato numerado (con números seguidos de un punto). 
  - Se considerará el uso de una sola instancia de la aplicación para todos los países, ya que esto simplifica la gestión de la aplicación y reduce los recursos necesarios para su mantenimiento. Además, se utilizarán microfrontends para separar la lógica del front-end, lo que permitirá tener diferentes interfaces de usuario para cada país sin necesidad de crear diferentes instancias de la aplicación.
 
+### Cronograma
+
+Semana 1-2: Configuración del entorno de desarrollo y planificación.
+Semana 3-4: Desarrollo del front-end y back-end de la función de compra de dispositivos.
+Semana 5-6: Desarrollo del front-end y back-end de la función de alquiler de dispositivos.
+Semana 7-8: Desarrollo del front-end y back-end de la función de compra de planes de datos, pruebas y lanzamiento.
+
+
+Este plan integral está diseñado para garantizar el éxito del desarrollo de una aplicación web en un plazo de 2 meses. El enfoque se centra en todos los aspectos clave, desde la selección de tecnologías adecuadas y la implementación de prácticas de desarrollo sólidas hasta la planificación cuidadosa del cronograma y la consideración de factores importantes como la internacionalización y la seguridad.
 
