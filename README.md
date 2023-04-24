@@ -49,11 +49,8 @@ Existen varias herramientas para el testeo de APIs, algunas de las más populare
 
 Postman: Es una aplicación que permite realizar peticiones HTTP a APIs y analizar las respuestas. Permite enviar diferentes tipos de peticiones como GET, POST, PUT, DELETE, etc., y también permite agregar headers y parámetros a las peticiones. Además, Postman permite guardar las peticiones como colecciones para poder reutilizarlas en el futuro.
 
-Insomnia: Similar a Postman, Insomnia es una aplicación de escritorio que permite enviar peticiones HTTP a APIs y analizar las respuestas. Una de las características interesantes de Insomnia es que permite crear entornos, lo que facilita la gestión de diferentes configuraciones para diferentes entornos (desarrollo, producción, etc.).
-
 Swagger: Swagger es una herramienta para diseñar, construir y documentar APIs. Permite crear especificaciones de la API en formato JSON o YAML, que pueden ser utilizadas por otras herramientas para generar la documentación, el código cliente y el servidor.
 
-Newman: Newman es una herramienta de línea de comandos que permite ejecutar colecciones de Postman. Esto es útil si se desea integrar las pruebas de la API en un sistema de integración continua o si se desea automatizar las pruebas.
 
 ### Entorno de desarrollo local
 Mi entorno de desarrollo local incluiría las siguientes herramientas:
@@ -62,8 +59,6 @@ Visual Studio Code: Un editor de código fuente con soporte para múltiples leng
 
 Docker: Utilizaría Docker para crear contenedores de la aplicación y de la base de datos. Esto facilita la configuración del entorno de desarrollo y asegura que todos los desarrolladores estén trabajando con el mismo entorno.
 
-Laravel Valet: Valet es una herramienta de desarrollo web para macOS que permite crear un servidor web local y configurar rápidamente los sitios web.
-
 Postman: Utilizaría Postman para probar las APIs durante el desarrollo.
 
 GitHub Desktop: Para manejar el control de versiones, utilizaría GitHub Desktop.
@@ -71,6 +66,7 @@ GitHub Desktop: Para manejar el control de versiones, utilizaría GitHub Desktop
 Nuxt o Next: Dependiendo de si se decide utilizar una sola instancia o varias, se utilizaría Nuxt o Next para implementar los microfrontends.
 
 En resumen, con estas herramientas podría tener un entorno de desarrollo local rápido y fácil de configurar, lo que me permitiría enfocarme en el desarrollo de la aplicación.
+
  ### Consideraciones de instancias multiples
 Para decidir si se utilizará una sola instancia o múltiples instancias para la aplicación, se deben considerar varios factores, como la cantidad de usuarios, el volumen de tráfico, la localización geográfica, la escalabilidad y la seguridad. Si se decide utilizar múltiples instancias, se debe tener en cuenta la integración de microfrontends con Nuxt o Next para mantener la consistencia en el front-end de todas las instancias.
 
