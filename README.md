@@ -38,6 +38,9 @@ Para el manejo de roles y permisos se utilizará Laravel Spatie. Se crearán dif
 
 Se utilizarán pipelines de Bitbucket para garantizar la calidad del código y la implementación de pruebas unitarias e integración. En cada confirmación de código, se ejecutará el conjunto completo de pruebas de la aplicación. Además, se utilizarán herramientas de análisis estático de código para garantizar que se sigan las mejores prácticas de codificación y se mantenga una alta calidad del código.
 
-### Microfrontends
+### Formato de desarrollo y pruebas:
 
-Si se decide utilizar múltiples instancias para la aplicación web, se utilizarán microfrontends con Nuxt o Next. Cada instancia de la aplicación se dividirá en varios microfrontends,
+Se utilizará el enfoque de Desarrollo Dirigido por Pruebas (TDD) para garantizar la calidad del código y la funcionalidad. Además, se realizarán pruebas de usuario para validar la experiencia del usuario final.
+
+En cuanto al testeo de APIs, se utilizarán herramientas como Postman y Swagger para probar exhaustivamente todas las rutas y endpoints disponibles. También se incluirán pruebas de carga para verificar la escalabilidad del sistema y su capacidad para manejar un gran número de solicitudes simultáneas.
+
