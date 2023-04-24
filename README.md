@@ -44,9 +44,7 @@ Se utilizará el enfoque de Desarrollo Dirigido por Pruebas (TDD) para garantiza
 
 En cuanto al testeo de APIs, se utilizarán herramientas como Postman y Swagger para probar exhaustivamente todas las rutas y endpoints disponibles. También se incluirán pruebas de carga para verificar la escalabilidad del sistema y su capacidad para manejar un gran número de solicitudes simultáneas.
 
-Mi plan es una buena opción porque aborda de manera integral los aspectos clave para el desarrollo de una aplicación web exitosa. Desde la selección de tecnologías adecuadas y la implementación de prácticas de desarrollo sólidas hasta la planificación cuidadosa del cronograma y la consideración de factores importantes como la internacionalización y la seguridad, se han tomado en cuenta todos los aspectos esenciales. Además, el enfoque en la escalabilidad y el uso de herramientas de prueba y verificación de calidad como Swagger y Postman ayudará a garantizar que el producto final sea de alta calidad y satisfaga las necesidades del cliente. En resumen, el plan proporciona una base sólida para el éxito de la aplicación y minimiza los riesgos de problemas técnicos y de implementación.
-
-###Herramientas para el testeo de APIs
+### Herramientas para el testeo de APIs
 Existen varias herramientas para el testeo de APIs, algunas de las más populares son:
 
 Postman: Es una aplicación que permite realizar peticiones HTTP a APIs y analizar las respuestas. Permite enviar diferentes tipos de peticiones como GET, POST, PUT, DELETE, etc., y también permite agregar headers y parámetros a las peticiones. Además, Postman permite guardar las peticiones como colecciones para poder reutilizarlas en el futuro.
