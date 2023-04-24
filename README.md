@@ -1,4 +1,4 @@
-##Plan integral para el desarrollo exitoso de una aplicación web
+## Plan integral para el desarrollo exitoso de una aplicación web
 Este plan integral está diseñado para garantizar el éxito del desarrollo de una aplicación web en un plazo de 2 meses. El enfoque se centra en todos los aspectos clave, desde la selección de tecnologías adecuadas y la implementación de prácticas de desarrollo sólidas hasta la planificación cuidadosa del cronograma y la consideración de factores importantes como la internacionalización y la seguridad.
 
 Selección de tecnologías adecuadas
