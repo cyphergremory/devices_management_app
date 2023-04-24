@@ -71,7 +71,8 @@ GitHub Desktop: Para manejar el control de versiones, utilizaría GitHub Desktop
 Nuxt o Next: Dependiendo de si se decide utilizar una sola instancia o varias, se utilizaría Nuxt o Next para implementar los microfrontends.
 
 En resumen, con estas herramientas podría tener un entorno de desarrollo local rápido y fácil de configurar, lo que me permitiría enfocarme en el desarrollo de la aplicación.
-
+ ### Consideraciones de instancias multiples
+Para decidir si se utilizará una sola instancia o múltiples instancias para la aplicación, se deben considerar varios factores, como la cantidad de usuarios, el volumen de tráfico, la localización geográfica, la escalabilidad y la seguridad. Si se decide utilizar múltiples instancias, se debe tener en cuenta la integración de microfrontends con Nuxt o Next para mantener la consistencia en el front-end de todas las instancias.
 
 ### Suposiciones surgidas
 Durante el desarrollo del plan, surgieron algunas suposiciones que se deben tener en cuenta:
