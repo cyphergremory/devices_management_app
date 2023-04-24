@@ -46,6 +46,34 @@ En cuanto al testeo de APIs, se utilizarán herramientas como Postman y Swagger 
 
 Mi plan es una buena opción porque aborda de manera integral los aspectos clave para el desarrollo de una aplicación web exitosa. Desde la selección de tecnologías adecuadas y la implementación de prácticas de desarrollo sólidas hasta la planificación cuidadosa del cronograma y la consideración de factores importantes como la internacionalización y la seguridad, se han tomado en cuenta todos los aspectos esenciales. Además, el enfoque en la escalabilidad y el uso de herramientas de prueba y verificación de calidad como Swagger y Postman ayudará a garantizar que el producto final sea de alta calidad y satisfaga las necesidades del cliente. En resumen, el plan proporciona una base sólida para el éxito de la aplicación y minimiza los riesgos de problemas técnicos y de implementación.
 
+###Herramientas para el testeo de APIs
+Existen varias herramientas para el testeo de APIs, algunas de las más populares son:
+
+Postman: Es una aplicación que permite realizar peticiones HTTP a APIs y analizar las respuestas. Permite enviar diferentes tipos de peticiones como GET, POST, PUT, DELETE, etc., y también permite agregar headers y parámetros a las peticiones. Además, Postman permite guardar las peticiones como colecciones para poder reutilizarlas en el futuro.
+
+Insomnia: Similar a Postman, Insomnia es una aplicación de escritorio que permite enviar peticiones HTTP a APIs y analizar las respuestas. Una de las características interesantes de Insomnia es que permite crear entornos, lo que facilita la gestión de diferentes configuraciones para diferentes entornos (desarrollo, producción, etc.).
+
+Swagger: Swagger es una herramienta para diseñar, construir y documentar APIs. Permite crear especificaciones de la API en formato JSON o YAML, que pueden ser utilizadas por otras herramientas para generar la documentación, el código cliente y el servidor.
+
+Newman: Newman es una herramienta de línea de comandos que permite ejecutar colecciones de Postman. Esto es útil si se desea integrar las pruebas de la API en un sistema de integración continua o si se desea automatizar las pruebas.
+
+### Entorno de desarrollo local
+Mi entorno de desarrollo local incluiría las siguientes herramientas:
+
+Visual Studio Code: Un editor de código fuente con soporte para múltiples lenguajes de programación y extensiones que permiten agregar nuevas funcionalidades.
+
+Docker: Utilizaría Docker para crear contenedores de la aplicación y de la base de datos. Esto facilita la configuración del entorno de desarrollo y asegura que todos los desarrolladores estén trabajando con el mismo entorno.
+
+Laravel Valet: Valet es una herramienta de desarrollo web para macOS que permite crear un servidor web local y configurar rápidamente los sitios web.
+
+Postman: Utilizaría Postman para probar las APIs durante el desarrollo.
+
+GitHub Desktop: Para manejar el control de versiones, utilizaría GitHub Desktop.
+
+Nuxt o Next: Dependiendo de si se decide utilizar una sola instancia o varias, se utilizaría Nuxt o Next para implementar los microfrontends.
+
+En resumen, con estas herramientas podría tener un entorno de desarrollo local rápido y fácil de configurar, lo que me permitiría enfocarme en el desarrollo de la aplicación.
+
 
 ### Suposiciones surgidas
 Durante el desarrollo del plan, surgieron algunas suposiciones que se deben tener en cuenta:
